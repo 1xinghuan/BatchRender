@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<setting threads="6" renderTip="None" multiRenderNum="2" executePath="nuke9.0" customPath="0"/>
+</root>
